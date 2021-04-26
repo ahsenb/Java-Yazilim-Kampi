@@ -24,8 +24,8 @@ public class Main {
 		CoursesManager coursesManager = new CoursesManager();
 		
 		coursesManager.addToCourse(course1);
-		//coursesManager.addToCourse(course2);
-		//coursesManager.addToCourse(course3);
+		//coursesManager.deletedToCourse(course1);
+		
 		
 		System.out.println("\n");
 		
