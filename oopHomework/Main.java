@@ -31,7 +31,7 @@ public class Main {
 		
 		for(Instructor instructor : instructors) {
 					
-			System.out.println(instructor1.intId + " " + instructor1.firstLastName + " " + instructor1.information + ".");
+			System.out.println(instructor1.firstLastName + " " + instructor1.information + ".");
 		}
 		
 		
