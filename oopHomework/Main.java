@@ -38,7 +38,7 @@ public class Main {
 		
 		for (Courses course : courses) {
 					
-					System.out.println(course.id + " " + course.name);	
+			System.out.println(course.id + " " + course.name);	
 					
 		}
 
